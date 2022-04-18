@@ -1,4 +1,3 @@
-The R code plots New Brunswick river levels, with data from
-https://wateroffice.ec.gc.ca/download/index_e.html?results_type=real_time (an
-awkward website that requires lots of clicking to get data).  The data files
-are as of 2022 apr 18.
+The R code plots New Brunswick river levels, with data from e.g.
+https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=01AO002 in csv format (some clicking is required to get the data to download).
+
